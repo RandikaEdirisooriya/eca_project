@@ -51,10 +51,6 @@ This repository contains four projects:
 - Backend: run `mvn -q -e -DskipTests package` at repo root to build services.
 - Frontend: run `npm install` then `npm run dev` inside `frontend-app`.
 
-
-
-course service =>mysql aws rds
-
-student service =>mongodb aws documentdb
-
-media service =>hard disk/local file system eke save karagannawa....-->aws s3
+# Studen Name=Randika Bandara Edirisooriya
+# Studen Id=2301671047
+# Studen email=randikaedirisooriya@gmail.com
