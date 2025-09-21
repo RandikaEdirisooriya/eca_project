@@ -50,7 +50,6 @@
         <dependency>
             <groupId>com.microsoft.sqlserver</groupId>
             <artifactId>mssql-jdbc</artifactId>
-
             <!-- No version specified - Spring Boot will manage it -->
         </dependency>
 
@@ -95,7 +94,3 @@
         </plugins>
     </build>
 </project>
-
-
-
-
